@@ -1,8 +1,9 @@
 wiki
 ====
+To repozytorium jest celowo puste. Jeśli szukasz wiki -> https://github.com/hakierspejs/wiki/wiki
 
-To repo jest celowo zostawione puste. Jeśli chcesz zmieniać repozytorium
-naszego wiki, użyj poniższej komendy żeby sklonować repozytorium, w którym
+Jeśli chcesz zmieniać nasze wiki przez gita, 
+użyj poniższej komendy żeby sklonować repozytorium, w którym
 faktycznie siedzi wiki:
 
     git clone git@github.com:hakierspejs/wiki.wiki.git
