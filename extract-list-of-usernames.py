@@ -9,9 +9,12 @@ import pprint
 import mistune
 
 
+WIKI_URL = 'https://github.com/hakierspejs/wiki.wiki.git'
+
+
 def main():
     if not pathlib.Path('wiki.wiki').exists():
-        subprocess.call(['git', 'clone', 'https://github.com/wiki/wiki.git'])
+        subprocess.call(['git', 'clone', WIKI_URL])
     markdown = mistune.create_markdown(renderer=mistune.AstRenderer())
     with open('wiki.wiki/Infrastruktura.md') as f:
         parsed = markdown(f.read())
