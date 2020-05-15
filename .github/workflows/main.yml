@@ -1,12 +1,16 @@
 name: CI
 
-on: [gollum]
+on: [gollum, push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - name: build container
+      run: sudo docker build . -t hakierspejs/wiki
+    - name: regenerate our svg
+      run: sudo docker run hakierspejs/wiki > media-w-wiki/kto-co-kontroluje.svg
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:
         commit_message: Apply automatic changes
