@@ -31,10 +31,7 @@ WIKI_URL = 'https://github.com/hakierspejs/wiki.wiki.git'
 
 
 def main():
-    if not pathlib.Path('wiki.wiki').exists():
-        subprocess.call(['git', 'clone', WIKI_URL])
-    else:
-        sys.stderr.write('Git repo apparently already exists.')
+    subprocess.check_call(['git', 'clone', WIKI_URL])
     markdown = mistune.create_markdown(renderer=mistune.AstRenderer())
     projects_per_user = collections.defaultdict(list)
     for fname in pathlib.Path('wiki.wiki').glob('**/*.md'):
