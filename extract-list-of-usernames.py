@@ -52,11 +52,14 @@ def main():
     colors_per_user = {}
     for n, user in enumerate(projects_per_user):
         colors_per_user[user] = optimal_color(n, num_users)
-    print('graph { rankdir=LR; splines=ortho; ranksep=2;')
+    dot = 'graph { rankdir=LR; splines=ortho; ranksep=2; nodesep=0.1;\n'
     for k, v in projects_per_user.items():
         for u in v:
-            print(f'"{k}"--"{u}" [color={colors_per_user[k]}]')
-    print('}')
+            dot += f'"{k}"--"{u}" [color={colors_per_user[k]}]\n'
+    dot += '}'
+    rendered = subprocess.check_output(['dot', '-Tsvg'], input=dot.encode())
+    with open('media-w-wiki/kto-co-kontroluje.svg', 'wb') as f:
+        f.write(rendered)
 
 
 if __name__ == '__main__':

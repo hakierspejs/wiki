@@ -10,7 +10,7 @@ jobs:
     - name: build container
       run: sudo docker build . -t hakierspejs/wiki
     - name: regenerate our svg
-      run: sudo docker run hakierspejs/wiki > media-w-wiki/kto-co-kontroluje.svg
+      run: docker run -ti -v `pwd`:/root hakierspejs/wiki
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:
         commit_message: Apply automatic changes
