@@ -4,6 +4,7 @@ import subprocess
 import pathlib
 import collections
 import re
+import shutil
 import pprint
 import colorsys
 import math
@@ -60,6 +61,7 @@ def main():
     rendered = subprocess.check_output(['dot', '-Tsvg'], input=dot.encode())
     with open('media-w-wiki/kto-co-kontroluje.svg', 'wb') as f:
         f.write(rendered)
+    shutil.rmtree('wiki.wiki')
 
 
 if __name__ == '__main__':
