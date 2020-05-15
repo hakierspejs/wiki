@@ -52,7 +52,7 @@ def main():
     colors_per_user = {}
     for n, user in enumerate(projects_per_user):
         colors_per_user[user] = optimal_color(n, num_users)
-    print('graph { rankdir=LR; splines=ortho;')
+    print('graph { rankdir=LR; splines=ortho; ranksep=2;')
     for k, v in projects_per_user.items():
         for u in v:
             print(f'"{k}"--"{u}" [color={colors_per_user[k]}]')
