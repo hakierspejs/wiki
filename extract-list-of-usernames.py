@@ -39,7 +39,7 @@ def process_child(child, title, projects_per_user):
             process_child(child, title, projects_per_user)
     else:
         for user in re.findall("@\\w+", child["text"]):
-            projects_per_user[user[1:]].append(title)
+            projects_per_user[user[1:]].add(title)
 
 
 def process(markdown, projects_per_user, fname):
@@ -58,7 +58,7 @@ def process(markdown, projects_per_user, fname):
 
 def main():
     subprocess.check_call(["git", "clone", WIKI_URL])
-    projects_per_user = collections.defaultdict(list)
+    projects_per_user = collections.defaultdict(set)
     markdown = mistune.create_markdown(renderer=mistune.AstRenderer())
     for fname in pathlib.Path("wiki.wiki").glob("**/*.md"):
         process(markdown, projects_per_user, fname)
