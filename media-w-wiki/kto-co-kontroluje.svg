@@ -15,27 +15,27 @@
 <ellipse fill="none" stroke="#000000" cx="59.7947" cy="-813" rx="28.6953" ry="18"/>
 <text text-anchor="middle" x="59.7947" y="-809.3" font-family="Times,serif" font-size="14.00" fill="#000000">q3k</text>
 </g>
-<!-- Infrastruktura#Domeny -->
-<g id="node2" class="node">
-<title>Infrastruktura#Domeny</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-835" rx="124.2781" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-831.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Domeny</text>
-</g>
-<!-- q3k&#45;&#45;Infrastruktura#Domeny -->
-<g id="edge1" class="edge">
-<title>q3k&#45;&#45;Infrastruktura#Domeny</title>
-<path fill="none" stroke="#ff0000" d="M76.7655,-827.5C133.1918,-827.5 317.8394,-827.5 439.8906,-827.5"/>
-</g>
 <!-- Infrastruktura#Lista mailingowa -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>Infrastruktura#Lista mailingowa</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-792" rx="165.1707" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-788.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Lista mailingowa</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-835" rx="165.1707" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-831.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Lista mailingowa</text>
 </g>
 <!-- q3k&#45;&#45;Infrastruktura#Lista mailingowa -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>q3k&#45;&#45;Infrastruktura#Lista mailingowa</title>
-<path fill="none" stroke="#ff0000" d="M83.2424,-802.5C142.5175,-802.5 301.9358,-802.5 418.6332,-802.5"/>
+<path fill="none" stroke="#ff0000" d="M79.1216,-826.3333C133.1542,-826.3333 289.5747,-826.3333 408.0115,-826.3333"/>
+</g>
+<!-- Infrastruktura#Domeny -->
+<g id="node3" class="node">
+<title>Infrastruktura#Domeny</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-792" rx="124.2781" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-788.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Domeny</text>
+</g>
+<!-- q3k&#45;&#45;Infrastruktura#Domeny -->
+<g id="edge2" class="edge">
+<title>q3k&#45;&#45;Infrastruktura#Domeny</title>
+<path fill="none" stroke="#ff0000" d="M83.2424,-802.5C148.3541,-802.5 334.3015,-802.5 451.7265,-802.5"/>
 </g>
 <!-- d33tah -->
 <g id="node4" class="node">
@@ -43,136 +43,136 @@
 <ellipse fill="none" stroke="#000000" cx="59.7947" cy="-577" rx="43.5923" ry="18"/>
 <text text-anchor="middle" x="59.7947" y="-573.3" font-family="Times,serif" font-size="14.00" fill="#000000">d33tah</text>
 </g>
-<!-- d33tah&#45;&#45;Infrastruktura#Domeny -->
-<g id="edge3" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Domeny</title>
-<path fill="none" stroke="#2bd500" d="M96.0679,-587C155.731,-587 268.0381,-587 268.0381,-587 268.0381,-587 268.0381,-820.5 268.0381,-820.5 268.0381,-820.5 394.7287,-820.5 479.1066,-820.5"/>
-</g>
 <!-- d33tah&#45;&#45;Infrastruktura#Lista mailingowa -->
-<g id="edge9" class="edge">
+<g id="edge8" class="edge">
 <title>d33tah&#45;&#45;Infrastruktura#Lista mailingowa</title>
-<path fill="none" stroke="#2bd500" d="M87.2003,-591C134.8741,-591 228.0381,-591 228.0381,-591 228.0381,-591 228.0381,-784.5 228.0381,-784.5 228.0381,-784.5 317.3547,-784.5 402.3101,-784.5"/>
+<path fill="none" stroke="#2bd500" d="M94.65,-587.8C153.9317,-587.8 268.0381,-587.8 268.0381,-587.8 268.0381,-587.8 268.0381,-821.6667 268.0381,-821.6667 268.0381,-821.6667 361.9363,-821.6667 441.8966,-821.6667"/>
 </g>
-<!-- Infrastruktura#t.me/hakierspejs -->
-<g id="node5" class="node">
-<title>Infrastruktura#t.me/hakierspejs</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-405" rx="163.2712" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-401.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#t.me/hakierspejs</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs -->
+<!-- d33tah&#45;&#45;Infrastruktura#Domeny -->
 <g id="edge4" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
-<path fill="none" stroke="#2bd500" d="M101.0381,-571.125C101.0381,-564.7593 101.0381,-555.5 101.0381,-555.5 101.0381,-555.5 410.0381,-555.5 410.0381,-555.5 410.0381,-555.5 410.0381,-446.3636 410.0381,-413.9638"/>
+<title>d33tah&#45;&#45;Infrastruktura#Domeny</title>
+<path fill="none" stroke="#2bd500" d="M86.088,-591.4C112.4125,-591.4 149.0381,-591.4 149.0381,-591.4 149.0381,-591.4 149.0381,-781 149.0381,-781 149.0381,-781 334.7692,-781 454.2973,-781"/>
 </g>
 <!-- Miejsce::Miejsce#Klucze do spejsu -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>Miejsce::Miejsce#Klucze do spejsu</title>
 <ellipse fill="none" stroke="#000000" cx="552.8137" cy="-749" rx="174.6691" ry="18"/>
 <text text-anchor="middle" x="552.8137" y="-745.3" font-family="Times,serif" font-size="14.00" fill="#000000">Miejsce::Miejsce#Klucze do spejsu</text>
 </g>
 <!-- d33tah&#45;&#45;Miejsce::Miejsce#Klucze do spejsu -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>d33tah&#45;&#45;Miejsce::Miejsce#Klucze do spejsu</title>
-<path fill="none" stroke="#2bd500" d="M101.026,-583C162.5017,-583 271.0381,-583 271.0381,-583 271.0381,-583 271.0381,-745.4 271.0381,-745.4 271.0381,-745.4 322.3557,-745.4 381.1905,-745.4"/>
-</g>
-<!-- Infrastruktura#Grafana -->
-<g id="node7" class="node">
-<title>Infrastruktura#Grafana</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-706" rx="122.6784" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-702.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Grafana</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#Grafana -->
-<g id="edge6" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Grafana</title>
-<path fill="none" stroke="#2bd500" d="M103.1254,-579C171.3268,-579 296.0381,-579 296.0381,-579 296.0381,-579 296.0381,-702.4 296.0381,-702.4 296.0381,-702.4 365.6059,-702.4 432.3203,-702.4"/>
-</g>
-<!-- Infrastruktura#Pad -->
-<g id="node8" class="node">
-<title>Infrastruktura#Pad</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-620" rx="102.8821" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-616.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Pad</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#Pad -->
-<g id="edge7" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Pad</title>
-<path fill="none" stroke="#2bd500" d="M60.0381,-595.4854C60.0381,-607.1399 60.0381,-620 60.0381,-620 60.0381,-620 305.6932,-620 450.1116,-620"/>
+<path fill="none" stroke="#2bd500" d="M99.716,-584.2C161.1978,-584.2 272.0381,-584.2 272.0381,-584.2 272.0381,-584.2 272.0381,-745.4 272.0381,-745.4 272.0381,-745.4 322.9398,-745.4 381.3972,-745.4"/>
 </g>
 <!-- Infrastruktura#Lelegram (na shitpostach) -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>Infrastruktura#Lelegram (na shitpostach)</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-577" rx="207.9631" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-573.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Lelegram (na shitpostach)</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-620" rx="207.9631" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-616.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Lelegram (na shitpostach)</text>
 </g>
 <!-- d33tah&#45;&#45;Infrastruktura#Lelegram (na shitpostach) -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>d33tah&#45;&#45;Infrastruktura#Lelegram (na shitpostach)</title>
-<path fill="none" stroke="#2bd500" d="M100.9812,-571C157.2765,-571 262.0669,-571 356.5658,-571"/>
-</g>
-<!-- Infrastruktura#Forum -->
-<g id="node10" class="node">
-<title>Infrastruktura#Forum</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-663" rx="116.1796" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-659.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Forum</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#Forum -->
-<g id="edge10" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Forum</title>
-<path fill="none" stroke="#2bd500" d="M103.1199,-575C172.0632,-575 299.0381,-575 299.0381,-575 299.0381,-575 299.0381,-658.5 299.0381,-658.5 299.0381,-658.5 372.2489,-658.5 440.0261,-658.5"/>
-</g>
-<!-- Infrastruktura#IRC -->
-<g id="node11" class="node">
-<title>Infrastruktura#IRC</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-233" rx="103.9815" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-229.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#IRC</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#IRC -->
-<g id="edge11" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#IRC</title>
-<path fill="none" stroke="#2bd500" d="M87.1956,-563C125.9305,-563 192.0381,-563 192.0381,-563 192.0381,-563 192.0381,-246 192.0381,-246 192.0381,-246 375.389,-246 480.6725,-246"/>
-</g>
-<!-- Infrastruktura#Hosting -->
-<g id="node12" class="node">
-<title>Infrastruktura#Hosting</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-534" rx="122.6784" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-530.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Hosting</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#Hosting -->
-<g id="edge12" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Hosting</title>
-<path fill="none" stroke="#2bd500" d="M103.0381,-574.8264C103.0381,-566.429 103.0381,-536.5714 103.0381,-536.5714 103.0381,-536.5714 297.895,-536.5714 431.098,-536.5714"/>
-</g>
-<!-- Infrastruktura#Meetup -->
-<g id="node13" class="node">
-<title>Infrastruktura#Meetup</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-448" rx="121.5784" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-444.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Meetup</text>
-</g>
-<!-- d33tah&#45;&#45;Infrastruktura#Meetup -->
-<g id="edge13" class="edge">
-<title>d33tah&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#2bd500" d="M96.3237,-567C158.4523,-567 278.0381,-567 278.0381,-567 278.0381,-567 278.0381,-460.8571 278.0381,-460.8571 278.0381,-460.8571 386.7182,-460.8571 467.3792,-460.8571"/>
+<path fill="none" stroke="#2bd500" d="M102.7488,-573.4C184.2,-573.4 353.0381,-573.4 353.0381,-573.4 353.0381,-573.4 353.0381,-602.4141 353.0381,-614.6544"/>
 </g>
 <!-- Infrastruktura#Github -->
-<g id="node14" class="node">
+<g id="node7" class="node">
 <title>Infrastruktura#Github</title>
 <ellipse fill="none" stroke="#000000" cx="552.8137" cy="-491" rx="117.7793" ry="18"/>
 <text text-anchor="middle" x="552.8137" y="-487.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Github</text>
 </g>
 <!-- d33tah&#45;&#45;Infrastruktura#Github -->
-<g id="edge14" class="edge">
+<g id="edge6" class="edge">
 <title>d33tah&#45;&#45;Infrastruktura#Github</title>
-<path fill="none" stroke="#2bd500" d="M99.0381,-569.0991C99.0381,-548.4751 99.0381,-494.6 99.0381,-494.6 99.0381,-494.6 302.9874,-494.6 437.4267,-494.6"/>
+<path fill="none" stroke="#2bd500" d="M102.0381,-572.5698C102.0381,-555.4545 102.0381,-494.6 102.0381,-494.6 102.0381,-494.6 303.7547,-494.6 437.3132,-494.6"/>
+</g>
+<!-- Infrastruktura#Hosting -->
+<g id="node8" class="node">
+<title>Infrastruktura#Hosting</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-534" rx="122.6784" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-530.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Hosting</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#Hosting -->
+<g id="edge7" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#Hosting</title>
+<path fill="none" stroke="#2bd500" d="M103.0381,-574.8264C103.0381,-566.429 103.0381,-536.5714 103.0381,-536.5714 103.0381,-536.5714 297.895,-536.5714 431.098,-536.5714"/>
+</g>
+<!-- Infrastruktura#Pad -->
+<g id="node9" class="node">
+<title>Infrastruktura#Pad</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-577" rx="102.8821" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-573.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Pad</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#Pad -->
+<g id="edge9" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#Pad</title>
+<path fill="none" stroke="#2bd500" d="M99.7229,-569.8C177.206,-569.8 349.847,-569.8 458.2401,-569.8"/>
+</g>
+<!-- Infrastruktura#IRC -->
+<g id="node10" class="node">
+<title>Infrastruktura#IRC</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-405" rx="103.9815" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-401.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#IRC</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#IRC -->
+<g id="edge10" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#IRC</title>
+<path fill="none" stroke="#2bd500" d="M96.0381,-566.6785C96.0381,-530.556 96.0381,-412 96.0381,-412 96.0381,-412 322.8029,-412 456.7802,-412"/>
+</g>
+<!-- Infrastruktura#Forum -->
+<g id="node11" class="node">
+<title>Infrastruktura#Forum</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-706" rx="116.1796" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-702.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Forum</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#Forum -->
+<g id="edge11" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#Forum</title>
+<path fill="none" stroke="#2bd500" d="M102.5621,-580.6C169.1468,-580.6 290.0381,-580.6 290.0381,-580.6 290.0381,-580.6 290.0381,-706 290.0381,-706 290.0381,-706 366.1212,-706 436.4089,-706"/>
+</g>
+<!-- Infrastruktura#t.me/hakierspejs -->
+<g id="node12" class="node">
+<title>Infrastruktura#t.me/hakierspejs</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-362" rx="163.2712" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-358.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#t.me/hakierspejs</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs -->
+<g id="edge12" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
+<path fill="none" stroke="#2bd500" d="M94.6578,-566.2C183.2478,-566.2 410.0381,-566.2 410.0381,-566.2 410.0381,-566.2 410.0381,-409.8594 410.0381,-370.7742"/>
 </g>
 <!-- Infrastruktura#t.me/hakierspejs_spam -->
-<g id="node15" class="node">
+<g id="node13" class="node">
 <title>Infrastruktura#t.me/hakierspejs_spam</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-276" rx="193.0657" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-272.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#t.me/hakierspejs_spam</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-190" rx="193.0657" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-186.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#t.me/hakierspejs_spam</text>
 </g>
 <!-- d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs_spam -->
-<g id="edge15" class="edge">
+<g id="edge13" class="edge">
 <title>d33tah&#45;&#45;Infrastruktura#t.me/hakierspejs_spam</title>
-<path fill="none" stroke="#2bd500" d="M100.0381,-570.0974C100.0381,-553.4581 100.0381,-512.5 100.0381,-512.5 100.0381,-512.5 375.0381,-512.5 375.0381,-512.5 375.0381,-512.5 375.0381,-322.4287 375.0381,-283.078"/>
+<path fill="none" stroke="#2bd500" d="M85.9732,-562.6C162.9264,-562.6 383.0381,-562.6 383.0381,-562.6 383.0381,-562.6 383.0381,-255.2673 383.0381,-198.8429"/>
+</g>
+<!-- Infrastruktura#Meetup -->
+<g id="node14" class="node">
+<title>Infrastruktura#Meetup</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-448" rx="121.5784" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-444.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Meetup</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#Meetup -->
+<g id="edge14" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#Meetup</title>
+<path fill="none" stroke="#2bd500" d="M100.0381,-570.0315C100.0381,-544.8436 100.0381,-460 100.0381,-460 100.0381,-460 329.8295,-460 462.0044,-460"/>
+</g>
+<!-- Infrastruktura#Grafana -->
+<g id="node15" class="node">
+<title>Infrastruktura#Grafana</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-663" rx="122.6784" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-659.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Grafana</text>
+</g>
+<!-- d33tah&#45;&#45;Infrastruktura#Grafana -->
+<g id="edge15" class="edge">
+<title>d33tah&#45;&#45;Infrastruktura#Grafana</title>
+<path fill="none" stroke="#2bd500" d="M103.4948,-577C174.9767,-577 309.0381,-577 309.0381,-577 309.0381,-577 309.0381,-657 309.0381,-657 309.0381,-657 374.0962,-657 436.9942,-657"/>
 </g>
 <!-- cytP450 -->
 <g id="node16" class="node">
@@ -181,56 +181,56 @@
 <text text-anchor="middle" x="59.7947" y="-702.3" font-family="Times,serif" font-size="14.00" fill="#000000">cytP450</text>
 </g>
 <!-- cytP450&#45;&#45;Infrastruktura#Domeny -->
-<g id="edge16" class="edge">
+<g id="edge17" class="edge">
 <title>cytP450&#45;&#45;Infrastruktura#Domeny</title>
-<path fill="none" stroke="#0061f2" d="M99.0381,-717.3143C99.0381,-746.8488 99.0381,-824 99.0381,-824 99.0381,-824 320.8921,-824 454.3512,-824"/>
+<path fill="none" stroke="#0061f2" d="M99.0381,-717.0589C99.0381,-739.4414 99.0381,-788 99.0381,-788 99.0381,-788 297.089,-788 431.5083,-788"/>
 </g>
 <!-- cytP450&#45;&#45;Miejsce::Miejsce#Klucze do spejsu -->
-<g id="edge17" class="edge">
+<g id="edge16" class="edge">
 <title>cytP450&#45;&#45;Miejsce::Miejsce#Klucze do spejsu</title>
 <path fill="none" stroke="#0061f2" d="M104.0381,-714.1171C104.0381,-727.4683 104.0381,-752.6 104.0381,-752.6 104.0381,-752.6 254.5388,-752.6 381.2299,-752.6"/>
-</g>
-<!-- cytP450&#45;&#45;Infrastruktura#Forum -->
-<g id="edge18" class="edge">
-<title>cytP450&#45;&#45;Infrastruktura#Forum</title>
-<path fill="none" stroke="#0061f2" d="M99.3546,-716.8C173.0696,-716.8 324.0381,-716.8 324.0381,-716.8 324.0381,-716.8 324.0381,-676.5 324.0381,-676.5 324.0381,-676.5 409.2636,-676.5 475.6797,-676.5"/>
 </g>
 <!-- cytP450&#45;&#45;Infrastruktura#Hosting -->
 <g id="edge19" class="edge">
 <title>cytP450&#45;&#45;Infrastruktura#Hosting</title>
-<path fill="none" stroke="#0061f2" d="M99.4719,-695.2C172.554,-695.2 321.0381,-695.2 321.0381,-695.2 321.0381,-695.2 321.0381,-546.8571 321.0381,-546.8571 321.0381,-546.8571 400.8774,-546.8571 466.8384,-546.8571"/>
+<path fill="none" stroke="#0061f2" d="M106.3795,-700C180.51,-700 317.0381,-700 317.0381,-700 317.0381,-700 317.0381,-546.8571 317.0381,-546.8571 317.0381,-546.8571 399.34,-546.8571 466.6925,-546.8571"/>
+</g>
+<!-- cytP450&#45;&#45;Infrastruktura#Forum -->
+<g id="edge18" class="edge">
+<title>cytP450&#45;&#45;Infrastruktura#Forum</title>
+<path fill="none" stroke="#0061f2" d="M96.8513,-718C174.6704,-718 356.8946,-718 465.9548,-718"/>
 </g>
 <!-- Martti25 -->
 <g id="node17" class="node">
 <title>Martti25</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-405" rx="51.9908" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-401.3" font-family="Times,serif" font-size="14.00" fill="#000000">Martti25</text>
-</g>
-<!-- Martti25&#45;&#45;Infrastruktura#t.me/hakierspejs -->
-<g id="edge22" class="edge">
-<title>Martti25&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
-<path fill="none" stroke="#c60077" d="M104.8538,-414C173.6114,-414 307.6513,-414 411.2676,-414"/>
-</g>
-<!-- Martti25&#45;&#45;Infrastruktura#Meetup -->
-<g id="edge21" class="edge">
-<title>Martti25&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#c60077" d="M102.0381,-415.6221C102.0381,-427.6004 102.0381,-445.4286 102.0381,-445.4286 102.0381,-445.4286 298.7796,-445.4286 432.3103,-445.4286"/>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-383" rx="51.9908" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-379.3" font-family="Times,serif" font-size="14.00" fill="#000000">Martti25</text>
 </g>
 <!-- Martti25&#45;&#45;Infrastruktura#Github -->
 <g id="edge23" class="edge">
 <title>Martti25&#45;&#45;Infrastruktura#Github</title>
-<path fill="none" stroke="#c60077" d="M97.0381,-417.7567C97.0381,-439.2115 97.0381,-480.2 97.0381,-480.2 97.0381,-480.2 325.192,-480.2 458.6532,-480.2"/>
+<path fill="none" stroke="#c60077" d="M98.0381,-395.3104C98.0381,-421.4656 98.0381,-480.2 98.0381,-480.2 98.0381,-480.2 325.3773,-480.2 458.5839,-480.2"/>
+</g>
+<!-- Martti25&#45;&#45;Infrastruktura#t.me/hakierspejs -->
+<g id="edge20" class="edge">
+<title>Martti25&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
+<path fill="none" stroke="#c60077" d="M106.6212,-375C182.5158,-375 334.4971,-375 439.8559,-375"/>
+</g>
+<!-- Martti25&#45;&#45;Infrastruktura#Meetup -->
+<g id="edge21" class="edge">
+<title>Martti25&#45;&#45;Infrastruktura#Meetup</title>
+<path fill="none" stroke="#c60077" d="M94.9778,-396.3333C189.3579,-396.3333 441.0381,-396.3333 441.0381,-396.3333 441.0381,-396.3333 441.0381,-426.6194 441.0381,-440.816"/>
 </g>
 <!-- Infrastruktura#Konto na Fejsie -->
 <g id="node18" class="node">
 <title>Infrastruktura#Konto na Fejsie</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-190" rx="157.0724" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-186.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Konto na Fejsie</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-319" rx="157.0724" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-315.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Konto na Fejsie</text>
 </g>
 <!-- Martti25&#45;&#45;Infrastruktura#Konto na Fejsie -->
-<g id="edge20" class="edge">
+<g id="edge22" class="edge">
 <title>Martti25&#45;&#45;Infrastruktura#Konto na Fejsie</title>
-<path fill="none" stroke="#c60077" d="M111.8599,-405C134.5369,-405 156.0381,-405 156.0381,-405 156.0381,-405 156.0381,-203 156.0381,-203 156.0381,-203 326.4069,-203 443.8682,-203"/>
+<path fill="none" stroke="#c60077" d="M96.1052,-370C147.4351,-370 235.0381,-370 235.0381,-370 235.0381,-370 235.0381,-329.8 235.0381,-329.8 235.0381,-329.8 338.0429,-329.8 426.764,-329.8"/>
 </g>
 <!-- biniu -->
 <g id="node19" class="node">
@@ -241,71 +241,71 @@
 <!-- biniu&#45;&#45;Infrastruktura#Meetup -->
 <g id="edge24" class="edge">
 <title>biniu&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#b6e400" d="M94.0714,-450.5714C162.9673,-450.5714 321.1462,-450.5714 432.4128,-450.5714"/>
+<path fill="none" stroke="#b6e400" d="M94.4628,-448C163.2862,-448 320.0856,-448 431.0674,-448"/>
 </g>
 <!-- kszmigiel -->
 <g id="node20" class="node">
 <title>kszmigiel</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-362" rx="55.4913" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-358.3" font-family="Times,serif" font-size="14.00" fill="#000000">kszmigiel</text>
-</g>
-<!-- kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs -->
-<g id="edge25" class="edge">
-<title>kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
-<path fill="none" stroke="#00ffff" d="M113.9808,-358.4C212.0767,-358.4 409.0381,-358.4 409.0381,-358.4 409.0381,-358.4 409.0381,-382.9998 409.0381,-396.4528"/>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-276" rx="55.4913" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-272.3" font-family="Times,serif" font-size="14.00" fill="#000000">kszmigiel</text>
 </g>
 <!-- kszmigiel&#45;&#45;Miejsce::Miejsce#Klucze do spejsu -->
-<g id="edge26" class="edge">
+<g id="edge25" class="edge">
 <title>kszmigiel&#45;&#45;Miejsce::Miejsce#Klucze do spejsu</title>
-<path fill="none" stroke="#00ffff" d="M104.1323,-372.8C167.1419,-372.8 275.0381,-372.8 275.0381,-372.8 275.0381,-372.8 275.0381,-738.2 275.0381,-738.2 275.0381,-738.2 343.6706,-738.2 412.7052,-738.2"/>
+<path fill="none" stroke="#00ffff" d="M111.8991,-282C175.601,-282 275.0381,-282 275.0381,-282 275.0381,-282 275.0381,-738.2 275.0381,-738.2 275.0381,-738.2 343.6706,-738.2 412.7052,-738.2"/>
 </g>
-<!-- kszmigiel&#45;&#45;Infrastruktura#Meetup -->
-<g id="edge29" class="edge">
-<title>kszmigiel&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#00ffff" d="M114.0327,-365.6C180.682,-365.6 285.0381,-365.6 285.0381,-365.6 285.0381,-365.6 285.0381,-440.2857 285.0381,-440.2857 285.0381,-440.2857 368.8837,-440.2857 442.7399,-440.2857"/>
+<!-- kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs -->
+<g id="edge28" class="edge">
+<title>kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
+<path fill="none" stroke="#00ffff" d="M101.1505,-288C135.2485,-288 178.0381,-288 178.0381,-288 178.0381,-288 178.0381,-358 178.0381,-358 178.0381,-358 291.5285,-358 393.6034,-358"/>
 </g>
 <!-- kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs_spam -->
-<g id="edge30" class="edge">
+<g id="edge29" class="edge">
 <title>kszmigiel&#45;&#45;Infrastruktura#t.me/hakierspejs_spam</title>
-<path fill="none" stroke="#00ffff" d="M103.0381,-350.5938C103.0381,-330.0625 103.0381,-289 103.0381,-289 103.0381,-289 286.5023,-289 419.084,-289"/>
+<path fill="none" stroke="#00ffff" d="M101.0073,-264C186.4577,-264 375.0381,-264 375.0381,-264 375.0381,-264 375.0381,-215.617 375.0381,-197.0954"/>
+</g>
+<!-- kszmigiel&#45;&#45;Infrastruktura#Meetup -->
+<g id="edge30" class="edge">
+<title>kszmigiel&#45;&#45;Infrastruktura#Meetup</title>
+<path fill="none" stroke="#00ffff" d="M115.2653,-276C181.3817,-276 283.0381,-276 283.0381,-276 283.0381,-276 283.0381,-436 283.0381,-436 283.0381,-436 383.5373,-436 461.8561,-436"/>
 </g>
 <!-- Finanse#Naklejki -->
 <g id="node21" class="node">
 <title>Finanse#Naklejki</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-362" rx="94.7833" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-358.3" font-family="Times,serif" font-size="14.00" fill="#000000">Finanse#Naklejki</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-276" rx="94.7833" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-272.3" font-family="Times,serif" font-size="14.00" fill="#000000">Finanse#Naklejki</text>
 </g>
 <!-- kszmigiel&#45;&#45;Finanse#Naklejki -->
-<g id="edge27" class="edge">
+<g id="edge26" class="edge">
 <title>kszmigiel&#45;&#45;Finanse#Naklejki</title>
-<path fill="none" stroke="#00ffff" d="M104.4164,-351.2C188.8003,-351.2 372.6198,-351.2 476.801,-351.2"/>
+<path fill="none" stroke="#00ffff" d="M112.0896,-270C195.7292,-270 360.6043,-270 463.2744,-270"/>
 </g>
 <!-- Infrastruktura#Naklejki -->
 <g id="node22" class="node">
 <title>Infrastruktura#Naklejki</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-319" rx="125.3778" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-315.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Naklejki</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-233" rx="125.3778" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-229.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Naklejki</text>
 </g>
 <!-- kszmigiel&#45;&#45;Infrastruktura#Naklejki -->
-<g id="edge28" class="edge">
+<g id="edge27" class="edge">
 <title>kszmigiel&#45;&#45;Infrastruktura#Naklejki</title>
-<path fill="none" stroke="#00ffff" d="M107.0381,-352.5414C107.0381,-341.8752 107.0381,-326 107.0381,-326 107.0381,-326 305.0639,-326 437.1455,-326"/>
+<path fill="none" stroke="#00ffff" d="M108.0381,-267.0433C108.0381,-256.0931 108.0381,-239 108.0381,-239 108.0381,-239 302.7353,-239 434.4981,-239"/>
 </g>
 <!-- nikolaad -->
 <g id="node23" class="node">
 <title>nikolaad</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-254" rx="50.0912" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-250.3" font-family="Times,serif" font-size="14.00" fill="#000000">nikolaad</text>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-319" rx="50.0912" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-315.3" font-family="Times,serif" font-size="14.00" fill="#000000">nikolaad</text>
 </g>
 <!-- nikolaad&#45;&#45;Infrastruktura#Meetup -->
-<g id="edge32" class="edge">
+<g id="edge31" class="edge">
 <title>nikolaad&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#ab00d5" d="M99.4641,-265C165.0766,-265 289.0381,-265 289.0381,-265 289.0381,-265 289.0381,-435.1429 289.0381,-435.1429 289.0381,-435.1429 390.4718,-435.1429 467.5376,-435.1429"/>
+<path fill="none" stroke="#ab00d5" d="M108.9972,-322.6C173.6374,-322.6 279.0381,-322.6 279.0381,-322.6 279.0381,-322.6 279.0381,-442 279.0381,-442 279.0381,-442 362.9765,-442 437.8982,-442"/>
 </g>
 <!-- nikolaad&#45;&#45;Infrastruktura#Konto na Fejsie -->
-<g id="edge31" class="edge">
+<g id="edge32" class="edge">
 <title>nikolaad&#45;&#45;Infrastruktura#Konto na Fejsie</title>
-<path fill="none" stroke="#ab00d5" d="M94.624,-241C185.5409,-241 423.0381,-241 423.0381,-241 423.0381,-241 423.0381,-215.223 423.0381,-200.3206"/>
+<path fill="none" stroke="#ab00d5" d="M108.8697,-315.4C175.849,-315.4 298.9498,-315.4 398.5626,-315.4"/>
 </g>
 <!-- Keij0 -->
 <g id="node24" class="node">
@@ -316,98 +316,98 @@
 <!-- Keij0&#45;&#45;Infrastruktura#Hosting -->
 <g id="edge34" class="edge">
 <title>Keij0&#45;&#45;Infrastruktura#Hosting</title>
-<path fill="none" stroke="#f29100" d="M87.632,-501.8C92.4987,-501.8 96.0381,-501.8 96.0381,-501.8 96.0381,-501.8 96.0381,-526.2857 96.0381,-526.2857 96.0381,-526.2857 306.4511,-526.2857 441.6579,-526.2857"/>
+<path fill="none" stroke="#f29100" d="M87.64,-501.8C93.0282,-501.8 97.0381,-501.8 97.0381,-501.8 97.0381,-501.8 97.0381,-526.2857 97.0381,-526.2857 97.0381,-526.2857 306.6885,-526.2857 441.61,-526.2857"/>
 </g>
 <!-- Keij0&#45;&#45;Infrastruktura#Meetup -->
 <g id="edge33" class="edge">
 <title>Keij0&#45;&#45;Infrastruktura#Meetup</title>
-<path fill="none" stroke="#f29100" d="M93.6511,-487.4C96.3364,-487.4 98.0381,-487.4 98.0381,-487.4 98.0381,-487.4 98.0381,-455.7143 98.0381,-455.7143 98.0381,-455.7143 308.1331,-455.7143 442.7252,-455.7143"/>
+<path fill="none" stroke="#f29100" d="M93.5814,-487.4C96.8824,-487.4 99.0381,-487.4 99.0381,-487.4 99.0381,-487.4 99.0381,-454 99.0381,-454 99.0381,-454 303.582,-454 438.0138,-454"/>
 </g>
 <!-- BluRaf -->
 <g id="node25" class="node">
 <title>BluRaf</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-168" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-164.3" font-family="Times,serif" font-size="14.00" fill="#000000">BluRaf</text>
-</g>
-<!-- BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs -->
-<g id="edge36" class="edge">
-<title>BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
-<path fill="none" stroke="#00c64f" d="M82.4435,-183.2C144.0432,-183.2 310.0381,-183.2 310.0381,-183.2 310.0381,-183.2 310.0381,-396 310.0381,-396 310.0381,-396 357.9703,-396 411.2388,-396"/>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-147" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-143.3" font-family="Times,serif" font-size="14.00" fill="#000000">BluRaf</text>
 </g>
 <!-- BluRaf&#45;&#45;Infrastruktura#IRC -->
-<g id="edge40" class="edge">
+<g id="edge38" class="edge">
 <title>BluRaf&#45;&#45;Infrastruktura#IRC</title>
-<path fill="none" stroke="#00c64f" d="M90.4624,-180.4C158.0834,-180.4 314.0381,-180.4 314.0381,-180.4 314.0381,-180.4 314.0381,-218.5 314.0381,-218.5 314.0381,-218.5 420.2642,-218.5 491.0125,-218.5"/>
+<path fill="none" stroke="#00c64f" d="M100.888,-151.5C170.0011,-151.5 302.0381,-151.5 302.0381,-151.5 302.0381,-151.5 302.0381,-391.6667 302.0381,-391.6667 302.0381,-391.6667 408.437,-391.6667 482.6253,-391.6667"/>
+</g>
+<!-- BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs -->
+<g id="edge39" class="edge">
+<title>BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs</title>
+<path fill="none" stroke="#00c64f" d="M96.6981,-156C140.0215,-156 206.0381,-156 206.0381,-156 206.0381,-156 206.0381,-351 206.0381,-351 206.0381,-351 324.6975,-351 423.1941,-351"/>
 </g>
 <!-- BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs_spam -->
-<g id="edge41" class="edge">
+<g id="edge40" class="edge">
 <title>BluRaf&#45;&#45;Infrastruktura#t.me/hakierspejs_spam</title>
-<path fill="none" stroke="#00c64f" d="M95.7103,-177.6C179.5376,-177.6 381.0381,-177.6 381.0381,-177.6 381.0381,-177.6 381.0381,-243.8146 381.0381,-267.6105"/>
+<path fill="none" stroke="#00c64f" d="M100.7928,-142.5C175.0138,-142.5 324.0381,-142.5 324.0381,-142.5 324.0381,-142.5 324.0381,-181 324.0381,-181 324.0381,-181 350.4602,-181 385.3457,-181"/>
 </g>
 <!-- BluRaf&#45;&#45;Infrastruktura#Konto na Fejsie -->
 <g id="edge35" class="edge">
 <title>BluRaf&#45;&#45;Infrastruktura#Konto na Fejsie</title>
-<path fill="none" stroke="#00c64f" d="M99.3071,-174.8C179.0533,-174.8 360.7976,-174.8 468.4351,-174.8"/>
+<path fill="none" stroke="#00c64f" d="M102.2329,-147C172.4247,-147 305.0381,-147 305.0381,-147 305.0381,-147 305.0381,-308.2 305.0381,-308.2 305.0381,-308.2 365.5387,-308.2 426.7483,-308.2"/>
+</g>
+<!-- Infrastruktura#hs&#45;ldz:hackerspace.pl -->
+<g id="node26" class="node">
+<title>Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-61" rx="186.5669" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-57.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#hs&#45;ldz:hackerspace.pl</text>
+</g>
+<!-- BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl -->
+<g id="edge36" class="edge">
+<title>BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
+<path fill="none" stroke="#00c64f" d="M87.8543,-133.5C99.3632,-133.5 110.0381,-133.5 110.0381,-133.5 110.0381,-133.5 110.0381,-67 110.0381,-67 110.0381,-67 253.3148,-67 376.863,-67"/>
 </g>
 <!-- Infrastruktura#Mumble -->
-<g id="node26" class="node">
+<g id="node27" class="node">
 <title>Infrastruktura#Mumble</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-61" rx="124.2781" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-57.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Mumble</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-104" rx="124.2781" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-100.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#Mumble</text>
 </g>
 <!-- BluRaf&#45;&#45;Infrastruktura#Mumble -->
 <g id="edge37" class="edge">
 <title>BluRaf&#45;&#45;Infrastruktura#Mumble</title>
-<path fill="none" stroke="#00c64f" d="M83.3167,-153C96.7877,-153 111.0381,-153 111.0381,-153 111.0381,-153 111.0381,-61 111.0381,-61 111.0381,-61 297.9127,-61 428.5789,-61"/>
-</g>
-<!-- Infrastruktura#hs&#45;ldz:hackerspace.pl -->
-<g id="node27" class="node">
-<title>Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-147" rx="186.5669" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-143.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#hs&#45;ldz:hackerspace.pl</text>
-</g>
-<!-- BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl -->
-<g id="edge38" class="edge">
-<title>BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
-<path fill="none" stroke="#00c64f" d="M96.4485,-159C162.6715,-159 305.4343,-159 413.7677,-159"/>
+<path fill="none" stroke="#00c64f" d="M60.0381,-128.5146C60.0381,-116.8601 60.0381,-104 60.0381,-104 60.0381,-104 282.4849,-104 428.4656,-104"/>
 </g>
 <!-- Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl -->
 <g id="node28" class="node">
 <title>Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</title>
-<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-104" rx="225.56" ry="18"/>
-<text text-anchor="middle" x="552.8137" y="-100.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</text>
+<ellipse fill="none" stroke="#000000" cx="552.8137" cy="-147" rx="225.56" ry="18"/>
+<text text-anchor="middle" x="552.8137" y="-143.3" font-family="Times,serif" font-size="14.00" fill="#000000">Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</text>
 </g>
 <!-- BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl -->
-<g id="edge39" class="edge">
+<g id="edge41" class="edge">
 <title>BluRaf&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</title>
-<path fill="none" stroke="#00c64f" d="M91.5218,-156C163.7111,-156 334.0381,-156 334.0381,-156 334.0381,-156 334.0381,-121.0085 334.0381,-108.4335"/>
+<path fill="none" stroke="#00c64f" d="M96.4485,-138C151.6808,-138 260.1554,-138 357.4914,-138"/>
 </g>
 <!-- kpc21 -->
 <g id="node29" class="node">
 <title>kpc21</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-297" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-293.3" font-family="Times,serif" font-size="14.00" fill="#000000">kpc21</text>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-233" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-229.3" font-family="Times,serif" font-size="14.00" fill="#000000">kpc21</text>
 </g>
 <!-- kpc21&#45;&#45;Infrastruktura#t.me/hakierspejs_spam -->
 <g id="edge42" class="edge">
 <title>kpc21&#45;&#45;Infrastruktura#t.me/hakierspejs_spam</title>
-<path fill="none" stroke="#2e00e4" d="M87.358,-284C142.7695,-284 271.6099,-284 379.7197,-284"/>
+<path fill="none" stroke="#2e00e4" d="M97.2832,-227C179.4306,-227 368.0381,-227 368.0381,-227 368.0381,-227 368.0381,-205.7516 368.0381,-195.4595"/>
 </g>
 <!-- ksiezak -->
 <g id="node30" class="node">
 <title>ksiezak</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-104" rx="46.2923" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-100.3" font-family="Times,serif" font-size="14.00" fill="#000000">ksiezak</text>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-61" rx="46.2923" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-57.3" font-family="Times,serif" font-size="14.00" fill="#000000">ksiezak</text>
 </g>
 <!-- ksiezak&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl -->
-<g id="edge43" class="edge">
+<g id="edge45" class="edge">
 <title>ksiezak&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
-<path fill="none" stroke="#ff0000" d="M60.0381,-122.166C60.0381,-130.9002 60.0381,-139.5 60.0381,-139.5 60.0381,-139.5 240.6859,-139.5 383.2283,-139.5"/>
+<path fill="none" stroke="#ff0000" d="M103.5468,-55C164.584,-55 278.8333,-55 376.8399,-55"/>
 </g>
 <!-- ksiezak&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl -->
-<g id="edge45" class="edge">
+<g id="edge44" class="edge">
 <title>ksiezak&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</title>
-<path fill="none" stroke="#ff0000" d="M103.5468,-110C157.0427,-110 251.4141,-110 339.9003,-110"/>
+<path fill="none" stroke="#ff0000" d="M105.9453,-61C187.1424,-61 347.0381,-61 347.0381,-61 347.0381,-61 347.0381,-118.3206 347.0381,-139.3681"/>
 </g>
 <!-- Współdzielony&#45;kalendarz&#45;i&#45;lista&#45;kontaktów#Założenie konta -->
 <g id="node31" class="node">
@@ -416,35 +416,35 @@
 <text text-anchor="middle" x="552.8137" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Współdzielony&#45;kalendarz&#45;i&#45;lista&#45;kontaktów#Założenie konta</text>
 </g>
 <!-- ksiezak&#45;&#45;Współdzielony&#45;kalendarz&#45;i&#45;lista&#45;kontaktów#Założenie konta -->
-<g id="edge44" class="edge">
+<g id="edge43" class="edge">
 <title>ksiezak&#45;&#45;Współdzielony&#45;kalendarz&#45;i&#45;lista&#45;kontaktów#Założenie konta</title>
-<path fill="none" stroke="#ff0000" d="M103.4377,-98C168.1608,-98 282.0381,-98 282.0381,-98 282.0381,-98 282.0381,-43.6531 282.0381,-24.5467"/>
+<path fill="none" stroke="#ff0000" d="M94.353,-49C165.1443,-49 320.0381,-49 320.0381,-49 320.0381,-49 320.0381,-37.7818 320.0381,-28.8423"/>
 </g>
 <!-- thinkofher -->
 <g id="node32" class="node">
 <title>thinkofher</title>
-<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-211" rx="59.5901" ry="18"/>
-<text text-anchor="middle" x="59.7947" y="-207.3" font-family="Times,serif" font-size="14.00" fill="#000000">thinkofher</text>
-</g>
-<!-- thinkofher&#45;&#45;Infrastruktura#Forum -->
-<g id="edge47" class="edge">
-<title>thinkofher&#45;&#45;Infrastruktura#Forum</title>
-<path fill="none" stroke="#2bd500" d="M95.4249,-225.5C162.9881,-225.5 303.0381,-225.5 303.0381,-225.5 303.0381,-225.5 303.0381,-649.5 303.0381,-649.5 303.0381,-649.5 402.4447,-649.5 475.8347,-649.5"/>
+<ellipse fill="none" stroke="#000000" cx="59.7947" cy="-190" rx="59.5901" ry="18"/>
+<text text-anchor="middle" x="59.7947" y="-186.3" font-family="Times,serif" font-size="14.00" fill="#000000">thinkofher</text>
 </g>
 <!-- thinkofher&#45;&#45;Infrastruktura#Hosting -->
-<g id="edge48" class="edge">
+<g id="edge49" class="edge">
 <title>thinkofher&#45;&#45;Infrastruktura#Hosting</title>
-<path fill="none" stroke="#2bd500" d="M107.1732,-222C178.9644,-222 307.0381,-222 307.0381,-222 307.0381,-222 307.0381,-521.1429 307.0381,-521.1429 307.0381,-521.1429 395.6902,-521.1429 466.508,-521.1429"/>
+<path fill="none" stroke="#2bd500" d="M119.606,-190C190.1783,-190 298.0381,-190 298.0381,-190 298.0381,-190 298.0381,-521.1429 298.0381,-521.1429 298.0381,-521.1429 392.6459,-521.1429 466.5583,-521.1429"/>
+</g>
+<!-- thinkofher&#45;&#45;Infrastruktura#Forum -->
+<g id="edge48" class="edge">
+<title>thinkofher&#45;&#45;Infrastruktura#Forum</title>
+<path fill="none" stroke="#2bd500" d="M111.7809,-199C180.7909,-199 294.0381,-199 294.0381,-199 294.0381,-199 294.0381,-694 294.0381,-694 294.0381,-694 390.7482,-694 465.9253,-694"/>
 </g>
 <!-- thinkofher&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl -->
-<g id="edge46" class="edge">
+<g id="edge47" class="edge">
 <title>thinkofher&#45;&#45;Infrastruktura#hs&#45;ldz:hackerspace.pl</title>
-<path fill="none" stroke="#2bd500" d="M116.0381,-204.5941C116.0381,-191.3121 116.0381,-162 116.0381,-162 116.0381,-162 320.4352,-162 449.5806,-162"/>
+<path fill="none" stroke="#2bd500" d="M113.0381,-181.5856C113.0381,-154.7586 113.0381,-73 113.0381,-73 113.0381,-73 284.8254,-73 413.666,-73"/>
 </g>
 <!-- thinkofher&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl -->
-<g id="edge49" class="edge">
+<g id="edge46" class="edge">
 <title>thinkofher&#45;&#45;Infrastruktura#hs&#45;ldz&#45;offtopic:hackerspace.pl</title>
-<path fill="none" stroke="#2bd500" d="M101.2987,-198C179.0873,-198 339.0381,-198 339.0381,-198 339.0381,-198 339.0381,-130.459 339.0381,-109.8801"/>
+<path fill="none" stroke="#2bd500" d="M117.0381,-184.5892C117.0381,-176.0728 117.0381,-160.5 117.0381,-160.5 117.0381,-160.5 277.3059,-160.5 403.4541,-160.5"/>
 </g>
 <!-- kpc -->
 <g id="node33" class="node">
@@ -466,22 +466,22 @@
 <!-- pmysl&#45;&#45;Miejsce::Miejsce#Klucze do spejsu -->
 <g id="edge51" class="edge">
 <title>pmysl&#45;&#45;Miejsce::Miejsce#Klucze do spejsu</title>
-<path fill="none" stroke="#c60077" d="M96.9618,-667.5C185.9756,-667.5 404.0381,-667.5 404.0381,-667.5 404.0381,-667.5 404.0381,-717.7423 404.0381,-739.3308"/>
-</g>
-<!-- pmysl&#45;&#45;Infrastruktura#Grafana -->
-<g id="edge52" class="edge">
-<title>pmysl&#45;&#45;Infrastruktura#Grafana</title>
-<path fill="none" stroke="#c60077" d="M93.0695,-672C157.2869,-672 292.0381,-672 292.0381,-672 292.0381,-672 292.0381,-709.6 292.0381,-709.6 292.0381,-709.6 364.0214,-709.6 432.3492,-709.6"/>
-</g>
-<!-- pmysl&#45;&#45;Infrastruktura#Forum -->
-<g id="edge53" class="edge">
-<title>pmysl&#45;&#45;Infrastruktura#Forum</title>
-<path fill="none" stroke="#c60077" d="M98.4811,-663C170.3837,-663 327.2079,-663 436.3605,-663"/>
+<path fill="none" stroke="#c60077" d="M95.9841,-669C184.3673,-669 404.0381,-669 404.0381,-669 404.0381,-669 404.0381,-718.3176 404.0381,-739.5088"/>
 </g>
 <!-- pmysl&#45;&#45;Infrastruktura#Hosting -->
 <g id="edge54" class="edge">
 <title>pmysl&#45;&#45;Infrastruktura#Hosting</title>
-<path fill="none" stroke="#c60077" d="M93.1611,-654C162.7648,-654 317.0381,-654 317.0381,-654 317.0381,-654 317.0381,-541.7143 317.0381,-541.7143 317.0381,-541.7143 380.4379,-541.7143 441.485,-541.7143"/>
+<path fill="none" stroke="#c60077" d="M88.8449,-651C155.3638,-651 313.0381,-651 313.0381,-651 313.0381,-651 313.0381,-541.7143 313.0381,-541.7143 313.0381,-541.7143 378.9788,-541.7143 441.6998,-541.7143"/>
+</g>
+<!-- pmysl&#45;&#45;Infrastruktura#Forum -->
+<g id="edge52" class="edge">
+<title>pmysl&#45;&#45;Infrastruktura#Forum</title>
+<path fill="none" stroke="#c60077" d="M88.5752,-675C149.7232,-675 287.0381,-675 287.0381,-675 287.0381,-675 287.0381,-712 287.0381,-712 287.0381,-712 369.6775,-712 442.7941,-712"/>
+</g>
+<!-- pmysl&#45;&#45;Infrastruktura#Grafana -->
+<g id="edge53" class="edge">
+<title>pmysl&#45;&#45;Infrastruktura#Grafana</title>
+<path fill="none" stroke="#c60077" d="M98.4811,-663C168.965,-663 321.0522,-663 429.8446,-663"/>
 </g>
 <!-- nuke -->
 <g id="node35" class="node">
