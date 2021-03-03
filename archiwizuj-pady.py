@@ -7,7 +7,7 @@ import re
 nowe_spotkania = ""
 with open("Spotkania.md") as f:
     for line in f:
-        if line.startswith("[") and 'pad.hs-ldz.pl' in line:
+        if line.startswith("[") and "pad.hs-ldz.pl" in line:
             data = line.split("[")[1].split("]")[0]
             orig_url = line.split("(")[1].split(")")[0]
             url = orig_url.split("?")[0].strip("#")
@@ -29,10 +29,10 @@ with open("Spotkania.md") as f:
                 + data
                 + "|"
                 + fname
-                + "]]<sup>"
+                + "]] <sup>("
                 + "[pad]("
                 + url
-                + ")</sup> - "
+                + "))</sup> - "
                 + opis
                 + "\n"
             )
