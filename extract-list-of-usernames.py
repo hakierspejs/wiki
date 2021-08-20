@@ -51,7 +51,10 @@ def process(markdown, projects_per_user, fname):
     title = None
     for entry in parsed:
         if entry["type"] == "heading":
-            title = f"{ftitle}#{entry['children'][0].get('text', '')}"
+            try:
+                title = f"{ftitle}#{entry['children'][0].get('text', '')}"
+            except IndexError:
+                continue
         else:
             process_child(entry, title, projects_per_user)
 
@@ -61,6 +64,8 @@ def main():
     projects_per_user = collections.defaultdict(set)
     markdown = mistune.create_markdown(renderer=mistune.AstRenderer())
     for fname in pathlib.Path("wiki.wiki").glob("**/*.md"):
+        if fname.name.startswith('Spotkania::'):
+            continue
         process(markdown, projects_per_user, fname)
     num_users = len(projects_per_user)
     colors_per_user = {}
