@@ -39,7 +39,8 @@ def process_child(child, title, projects_per_user):
             process_child(child, title, projects_per_user)
     else:
         for user in re.findall("@\\w+", child["text"]):
-            projects_per_user[user[1:]].add(title)
+            if str(title) != 'None':
+                projects_per_user[user[1:]].add(title)
 
 
 def process(markdown, projects_per_user, fname):
