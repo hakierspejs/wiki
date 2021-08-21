@@ -13,6 +13,12 @@ import sys
 import mistune
 
 
+USERNAME_ALIASES = {
+    'kpc21': 'kpc',
+    'a44ce20e03': 'cytP450',
+}
+
+
 def hsv2rgb(h, s, v):
     return tuple(round(i * 255) for i in colorsys.hsv_to_rgb(h, s, v))
 
@@ -40,7 +46,9 @@ def process_child(child, title, projects_per_user):
     else:
         for user in re.findall("@\\w+", child["text"]):
             if str(title) != 'None':
-                projects_per_user[user[1:]].add(title)
+                username = user[1:]
+                username = USERNAME_ALIASES.get(username, username)
+                projects_per_user[username].add(title)
 
 
 def process(markdown, projects_per_user, fname):
