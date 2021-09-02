@@ -17,6 +17,9 @@ USERNAME_ALIASES = {
     'kpc21': 'kpc',
     'a44ce20e03': 'cytP450',
     'Keijo': 'Keij0',
+    'cytP540': 'cytP450',
+    'gazowany_smalec': 'kszmigiel',
+    'Martti25': 'marti'
 }
 
 
