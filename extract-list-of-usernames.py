@@ -75,7 +75,7 @@ def process(markdown, projects_per_user, fname):
 def main():
     subprocess.check_call(["git", "clone", WIKI_URL])
     projects_per_user = collections.defaultdict(set)
-    markdown = mistune.create_markdown(renderer=mistune.AstRenderer())
+    markdown = mistune.create_markdown(renderer=None)
     for fname in pathlib.Path("wiki.wiki").glob("**/*.md"):
         if fname.name.startswith('Spotkania::'):
             continue
