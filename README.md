@@ -1,5 +1,7 @@
 wiki
 ====
+***To jest repo starego Wiki HSŁ. Jesteśmy w trakcie migracji na [nowe](https://wiki.hs-ldz.pl/pl/home). Prosimy o dodawanie nowych treści tam, a nie tutaj.***
+
 To repozytorium jest celowo puste. Jeśli szukasz wiki -> https://github.com/hakierspejs/wiki/wiki
 
 Jeśli chcesz zmieniać nasze wiki przez gita, 
